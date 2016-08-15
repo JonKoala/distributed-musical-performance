@@ -1,0 +1,7 @@
+{
+  "chronoTrigger": {
+    "title": "Chrono Trigger OST - Chrono's Theme",
+    "tracks": ["ct-song.mp3", "ct-guitar.mp3"],
+    "interval": 2
+  }
+}
